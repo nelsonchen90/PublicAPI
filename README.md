@@ -13,3 +13,6 @@ https://quotes.rest/
 
 # NPS
 https://www.nps.gov/subjects/developer/api-documentation.htm#/
+
+# OPEN DATA SZ
+https://opendata.sz.gov.cn
